@@ -1,4 +1,4 @@
-## Helo, I am Fernando.
+## Hello, I am Fernando.
 
 You can take a look at my personal projects 😁
 
