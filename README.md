@@ -6,4 +6,6 @@ Currently coding mostly in Python 🐍
 
 Feel free to fork any repository or send me a message with any question !
 
+![](https://komarev.com/ghpvc/?username=viperML)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viperML&show_icons=true)
