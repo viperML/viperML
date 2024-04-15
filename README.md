@@ -1,9 +1,6 @@
 ## Hello, I am Fernando.
 
-
-Currently coding on Python and Rust 🐍🦀
-
-Also in [gitlab/viperML](https://gitlab.com/users/viperML/contributed)
+Doing stuff with Python and Rust 🐍🦀 and other functional languages
 
 ![](https://komarev.com/ghpvc/?username=viperML)
 
