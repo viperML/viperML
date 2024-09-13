@@ -16,3 +16,7 @@ On my free time I like to explore functional and low-level programming languages
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=viperML&show_icons=true" />
 </p>
+
+---
+
+If you like what I do, considering supporting my OSS contributions with [Github Sponsors](https://github.com/sponsors/viperML) or buying me a game from my [Steam Wishlist](https://store.steampowered.com/wishlist/profiles/76561198134385580#sort=salesrank).
