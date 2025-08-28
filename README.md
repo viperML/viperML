@@ -5,7 +5,7 @@
   </p>
 </h1>
 
-I'm currently working as a Research Engineer at Inria. 
+I'm currently working as a DevOps Engineer at the Barcelona Supercomputing Center. 
 
 On my free time I like to explore functional and low-level programming languages. You might see a lot of Rust and Nix coming from this account, as well as some bits of C and Haskell.
 
